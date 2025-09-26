@@ -12,4 +12,4 @@
   {% endif %}
 {% endmacro %}
 
-{{ test_boolean_debug('Leave extra in last column') }}
+-- {{ test_boolean_debug('Leave extra in last column') }}
